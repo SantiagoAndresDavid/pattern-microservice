@@ -28,7 +28,5 @@ public class NotificationService {
             wa.setPhoneNumber((String) data.get("phoneNumber"));
             wa.setMessage((String) data.get("message"));
         }
-
-        // Aquí podrías llamar notification.send(), si lo tuvieras implementado
     }
 }
