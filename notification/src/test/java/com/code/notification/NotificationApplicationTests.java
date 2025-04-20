@@ -1,10 +1,10 @@
-package com.code.decorator;
+package com.code.notification;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DecoratorApplicationTests {
+class NotificationApplicationTests {
 
 	@Test
 	void contextLoads() {
